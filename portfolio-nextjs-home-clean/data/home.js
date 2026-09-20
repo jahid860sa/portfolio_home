@@ -1,6 +1,6 @@
 export const homeContent = {
   brand: {
-    name: 'Xiami',
+    name: 'Jsa',
     homeAriaLabel: 'Xiami home'
   },
 
@@ -17,8 +17,8 @@ export const homeContent = {
   },
 
   hero: {
-    kicker: 'Hey There',
-    titleLine1: "I'm Rachel Davis",
+    kicker: 'Hey there',
+    titleLine1: "I'm jahid",
     titleLine2: 'App',
     titleAccent: 'Designer',
     description: 'Product designer creating clear, attractive digital experiences for mobile apps, SaaS products and modern websites.',
@@ -43,7 +43,7 @@ export const homeContent = {
       { value: '10+', labelLine1: 'Global', labelLine2: 'Awards' }
     ],
     cta: 'About Me',
-    signature: 'Rachel Davis',
+    signature: 'Jahid',
     image: '/assets/images/about-visual.png',
     imageAlt: 'Happy customer illustration with ratings'
   },
