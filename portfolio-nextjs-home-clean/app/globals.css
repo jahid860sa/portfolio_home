@@ -202,8 +202,8 @@ h2 { margin: 0; font-size: clamp(34px, 4vw, 50px); line-height: 1.06; }
 
 .footer { padding: 70px 0 22px; }
 .footer-grid { display: grid; grid-template-columns: 1.5fr 1fr 1fr 1fr; gap: 45px; }
-.footer h3 { margin: 0 0 12px; font-size: 12px; }
-.footer p { color: #a3a6ac; font-size: 10px; line-height: 1.9; }
+.footer h3 { margin: 0 0 12px; font-size: 16px; }
+.footer p { color: #a3a6ac; font-size: 14px; line-height: 1.9; }
 .social { margin-top: 25px; font-size: 9px; }
 .footer-bottom { display: flex; align-items: center; justify-content: space-between; border-top: 1px solid #34363b; margin-top: 46px; padding-top: 22px; color: #8a8d93; font-size: 8px; }
 .footer-bottom b { color: var(--green); }
